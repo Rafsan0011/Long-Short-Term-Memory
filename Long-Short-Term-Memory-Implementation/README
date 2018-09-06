@@ -1,1 +1,6 @@
 
+This is an implementation of the Deep Learning concept "RNN", specifically "Long Short Term Memory" of RNN on IMDB dataset. 
+This was implemented in Python and Tensorflow. Data was procured using:
+"path = get_dataset_file(path, "imdb.pkl","http://www.iro.umontreal.ca/~lisa/deep/data/imdb.pkl"). So you need to be online.
+
+
